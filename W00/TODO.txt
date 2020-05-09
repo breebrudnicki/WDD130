@@ -1,9 +1,9 @@
 Resources / Extra learning list
 
-- write your HTML in discussion boards
-- element inspector
+X write your HTML in discussion boards
+X element inspector
 - W3 schools
 - codePen
 - CSS Tricks
 - Sizing images?
-- CSS v HTML (infographic + example)
+- CSS v HTML (infographic + example) (and other infographics)
