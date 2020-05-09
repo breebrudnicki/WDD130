@@ -1,0 +1,3 @@
+KHAN academy this week is:
+  - basic HTML structure and Headings, paragraphs, lists, and images (and width properties)
+  - using css in a style tag. adding color (including RGB), styling by ID, class, and element
