@@ -15,3 +15,6 @@ Add the following resources to the resources section:
 
 - [How to Get a Tutor](https://video.byui.edu/media/PC+I-Plan+Tutor+Sign-up+Tutorial/0_43d3eldx)
 - Sister Brudnicki's Zoom Room
+
+##Grading
+Setup an auto late work policy (consider waiting until week 3 to set this up)

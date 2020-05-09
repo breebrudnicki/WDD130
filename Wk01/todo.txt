@@ -1,0 +1,9 @@
+[ ] Re-work the announcement and include placeholder information
+[ ] Create a week 1 email that will go out
+[ ] Will you send any reminder follow-up videos?
+[ ] Create a welcome to week 01 video
+[ ] Create a 'how to' video for the software setup assignment
+[ ] Create a 'how to' video for the about me activity
+[ ] Consider creating a walk through video of the course readings for the week
+THERE ARE NO KHAN ACADEMY LESSONS THIS WEEK ONLY READINGS FOR HTML
+[ ] Transcripts for all videos created in google docs

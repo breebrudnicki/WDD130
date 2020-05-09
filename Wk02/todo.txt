@@ -1,0 +1,10 @@
+[ ] Re-work the announcement and include placeholder information (ALSO INCLUDE OPTIONAL DISCUSSION BOARD AND THAT QUIZ THING)
+    KHAN academy this week is:
+      - basic HTML structure and Headings, paragraphs, lists, and images (and width properties)
+      - using css in a style tag. adding color (including RGB), styling by ID
+[ ] Create a week 2 email that will go out
+[ ] Will you send any reminder / follow up emails
+[ ] Create a welcome to week 02 video
+[ ] Create a 'how to' video for the site plan
+[ ] Quick walkthrough of Khan ACADEMY
+[ ] Transcripts for all videos created in google docs
