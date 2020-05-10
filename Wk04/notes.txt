@@ -1,0 +1,12 @@
+KHAN ACADEMY LESSONS THIS WEEK:
+  - CSS Zen garden example
+  - CSS font families
+  - font styles (bold, italic)
+  - font-size (and em)
+  - text decoration
+  - text-align
+  - CSS inheritance
+  - more about inspect element
+  - different code editors
+  - serving a web page
+  - hosting with gitHub

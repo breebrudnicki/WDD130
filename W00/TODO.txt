@@ -3,7 +3,7 @@ Resources / Extra learning list
 X write your HTML in discussion boards
 X element inspector
 - W3 schools
-- codePen
+x codePen
 - CSS Tricks
-- Sizing images?
-- CSS v HTML (infographic + example) (and other infographics)
+- Tiny PNG
+x CSS v HTML (infographic + example) (and other infographics)
