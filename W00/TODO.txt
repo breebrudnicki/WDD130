@@ -7,3 +7,4 @@ x codePen
 - CSS Tricks
 - Tiny PNG
 x CSS v HTML (infographic + example) (and other infographics)
+- CSS specificity

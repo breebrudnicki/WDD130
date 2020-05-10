@@ -1,1 +1,8 @@
 Khan Academy Lesson:
+- all about CSS selectors
+  - adding multiple classes to and element
+  - using classes and element selectors (example p.warning)
+  - descendant selectors
+  - grouping css selectors (h1, h2, h3, h4 {})
+  - dynamic pseudo selectors (:visited)
+  - CSS specificity
